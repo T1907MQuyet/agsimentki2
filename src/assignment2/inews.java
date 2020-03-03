@@ -1,4 +1,4 @@
-package agsiment2;
+package assignment2;
 
 public interface inews {
     void display();
