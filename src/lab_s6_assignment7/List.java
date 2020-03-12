@@ -1,4 +1,4 @@
-package lab_s6;
+package lab_s6_assignment7;
 
 import connector.Connector;
 import javafx.collections.FXCollections;
@@ -12,8 +12,6 @@ import session6.ProductDataAccessObject;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
-
-import java.sql.*;
 
 public class List implements Initializable {
     public ListView<Product> lsView = new ListView<>();

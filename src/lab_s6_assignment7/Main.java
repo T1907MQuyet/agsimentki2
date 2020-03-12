@@ -1,4 +1,4 @@
-package lab_s6;
+package lab_s6_assignment7;
 
 import javafx.application.Application;
 import javafx.collections.FXCollections;

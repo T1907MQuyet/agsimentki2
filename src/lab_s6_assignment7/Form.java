@@ -1,7 +1,5 @@
-package lab_s6;
+package lab_s6_assignment7;
 
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import java.sql.*;

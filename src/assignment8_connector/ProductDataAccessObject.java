@@ -1,9 +1,8 @@
 package assignment8_connector;
 
 import connector.Connector;
-import lab_s6.Product;
+import lab_s6_assignment7.Product;
 
-import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 
